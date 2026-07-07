@@ -6,7 +6,7 @@ Ce document présente la structure et le fonctionnement de notre système de ges
 
 ## 1. Diagramme d'État-Transition (Exemplaire de Livre)
 
-![Diagramme d'état de transition](uml/Diagramme%20etat%20transistion.png)
+![Diagramme d'état de transition](uml/Diagramme%20etat%20transistion.drawio.png)
 
 Ce diagramme illustre les différents états possibles d'un exemplaire de livre dans le système. Les états principaux sont : **Disponible**, **Réservé**, **Emprunté** et **Perdu**. Les transitions sont déclenchées par des événements tels que l'emprunt, le retour, la réservation, l'annulation ou la déclaration de perte.
 
