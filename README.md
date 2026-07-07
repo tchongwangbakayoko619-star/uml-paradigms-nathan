@@ -30,7 +30,7 @@ Ce diagramme présente la structure statique du modèle de données. Il inclut l
 
 ## 4. Diagramme de Cas d'Utilisation
 
-![Diagramme de cas d'utilisation](uml/Diagramme%20de%20cas%20d'utilisation.png)
+![Diagramme de cas d'utilisation](uml/Diagramme%20de%20cas%20d'utilisation2.png)
 
 Ce diagramme décrit les fonctionnalités du système du point de vue des acteurs (**Membre** et **Bibliothécaire**). Les cas principaux incluent : rechercher/réserver/emprunter/retourner un livre, gérer le catalogue, valider les opérations, enregistrer des pénalités et envoyer des notifications.
 
